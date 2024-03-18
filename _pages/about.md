@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingzhi Zhong, Economics MA @ Hunan University"
+title: "Mingzhi Zhong, MA student @ School of Economics & Trade, Hunan University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
