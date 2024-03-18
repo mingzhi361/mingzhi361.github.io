@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers
 ---
 
-**Revealed Preferences of One-Sided Matching**  
+**Smarter Makes Greener? The Carbon Reduction Effect of Smart Manufacturing in Chinese Listed Firms.**  
 [[pdf](files/Tai_RevPrefOneSidedMatching.pdf)] 
 [[arXiv](https://arxiv.org/abs/2210.14388)] 
 [<a href="#/" onclick="visib('RevPref')">click for abstract</a>]
