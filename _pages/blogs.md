@@ -7,6 +7,6 @@ redirect_from:
   - /blogs
 ---
 
-#This is my blogs
+# This is my blogs
 
 {% include base_path %}
