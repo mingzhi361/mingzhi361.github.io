@@ -21,11 +21,11 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "discourse" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
-    server               : https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mingzhi Zhong"
   avatar           : "profile.jpg"
-  bio              : "Economics PhD Student, UC Berkeley"
-  location         : "UC Berkeley"
+  bio              : "Economics MA Student, Hunan University"
+  location         : "Changsha city, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=e6QvYlEAAAAJ&hl=en"
-  email            : "atai1@berkeley.edu"
+  googlescholar    : 
+  email            : "mingzhi361.hnu.edu.cn"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "taiandrew"
+  github           : "mingzhi361"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0008-7636-9791"
+  orcid            : "https://orcid.org/0009-0006-3937-1185"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
