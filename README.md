@@ -1,7 +1,7 @@
 [Mingzhi Zhong](https://github.com/mingzhi361 "钟明志")
 ====
 
-# This is my personal `Website` power by `Github`. 
+# This is my personal `Website` powered by `Github`. 
 
 Hope you will enjoy it! 
 ====
