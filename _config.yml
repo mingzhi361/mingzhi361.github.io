@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingzhi Zhong"
+title                    : "Mingzhi's web"
 title_separator          : "-"
 name                     : &name "Mingzhi Zhong"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mingzhi Zhong"
   avatar           : "profile.png"
-  bio              : "Economics MA Student, Hunan University"
+  bio              : "Economics MA, Hunan University"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mingzhi361"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
