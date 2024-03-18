@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a MA student in Economics at [Hunan University](https://en.wikipedia.org/wiki/Hunan_University#General_Rankings "湖南大学"). My interests are primarily in regional and environmental economics. Meanwhile, I also enjoy from coding, kpop, and basketball. Please see my [CV](files/mingzhi361-CV.pdf "个人简历").
+I am a MA student in Economics at [Hunan University](https://en.wikipedia.org/wiki/Hunan_University#General_Rankings "湖南大学"). My interests are primarily in regional and environmental economics. I really also enjoy from coding, kpop, and basketball. More info in my [CV](files/mingzhi361-CV.pdf "个人简历").
 
-Recently, I have been actively learning how to apply Machine Learning ([ML](https://projects.iq.harvard.edu/files/pegroup/files/athey2018.pdf)) techniques in my empirical research. 
+Recently, I have been involved in how to apply Machine Learning ([ML](https://projects.iq.harvard.edu/files/pegroup/files/athey2018.pdf) techniques to empirical research.
 
-Plz contact me at [mingzhi361@hnu.edu.cn](mingzhi361@hnu.edu.cn)
+Please contact me at [mingzhi361@hnu.edu.cn](mingzhi361@hnu.edu.cn)
