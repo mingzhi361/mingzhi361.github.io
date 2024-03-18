@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Andrew Tai, Economics PhD @ UC Berkeley"
+title: "Mingzhi Zhong, Economics MA @ Hunan University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at UC Berkeley. My interests are primarily in microeconomic theory. Please see my [CV](files/Tai_CV.pdf).
+I am a MA Candidate in Economics at School of Economics & Trade, Hunan University. My interests are primarily in Regional and Environmental Economics. Please see my [CV](files/mingzhi361-CV.pdf).
 
-Prior, I was a research assistant at the Federal Reserve Bank of San Francisco and for Stefano DellaVigna at UC Berkeley.
+Recently, I am learning and exploring machine learning and computer technology to apply the latest methods to economic research.
 
-Contact: atai1@berkeley.edu
+Contact: mingzhi361@hnu.edu.cn
