@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a MA Candidate in Economics at School of Economics & Trade, Hunan University. My interests are primarily in Regional and Environmental Economics. Please see my [CV](files/mingzhi361-CV.pdf).
+I am a MA student in Economics at [Hunan University](https://en.wikipedia.org/wiki/Hunan_University#General_Rankings "湖南大学"). My interests are primarily in regional and environmental economics. Please see my [CV](files/mingzhi361-CV.pdf).
 
-Recently, I am learning and exploring machine learning and computer technology to apply the latest methods to economic research.
+Recently, I have been actively learning to apply machine learning techniques to my empirical research.
 
 Contact: mingzhi361@hnu.edu.cn
