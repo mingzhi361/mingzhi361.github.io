@@ -7,6 +7,8 @@ redirect_from:
   - /blogs
 ---
 
-# This is my blogs
+# This is my blogs, hope you will enjoy! 
+
+[![Taeyeon Poster](/images/Taeyeon_Pic.png "Taeyeon")](https://en.wikipedia.org/wiki/Taeyeon)
 
 {% include base_path %}
