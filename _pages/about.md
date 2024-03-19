@@ -13,4 +13,4 @@ research interests are primarily in regional and environmental economics. In my 
 
 Recently, I have been trying how to use Machine Learning ([ML](https://www.zhihu.com/question/37870042])) methods in economic research. And I'm also study computer and statistical at [GitHub](https://github.com/). 
 
-Contact me at [mingzhi361@hnu.edu.cn](https://orcid.org/0009-0006-3937-1185) or [WeChat QR](images/weixinQR.png). 
+Contact me with [mingzhi361@hnu.edu.cn](https://orcid.org/0009-0006-3937-1185) or [WeChat QR](images/weixinQR.png). 
