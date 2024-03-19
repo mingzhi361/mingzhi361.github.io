@@ -12,4 +12,4 @@ I am a MA student in Economics at [Hunan University](https://baike.baidu.com/ite
 
 Recently, I have been trying how to use Machine Learning ([ML](https://www.zhihu.com/question/37870042])) methods in economic research. And I'm also working hard to learn and share computer and statistical knowledges from [GitHub](https://github.com/). 
 
-Contact me at [mingzhi361@hnu.edu.cn] or [WeChat QR](images/weixinQR.png)
+Contact me at [mingzhi361@hnu.edu.cn]() or [WeChat QR](images/weixinQR.png)
