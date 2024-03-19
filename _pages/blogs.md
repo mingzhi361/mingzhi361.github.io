@@ -7,7 +7,7 @@ redirect_from:
   - /blogs
 ---
 
-# This is my personal blogs, hope you will enjoy! 
+# This is my personal blog, hope you will enjoy! 
 
 [![Taeyeon Poster](/images/Taeyeon_Pic.png "Taeyeon")](https://en.wikipedia.org/wiki/Taeyeon)
 
