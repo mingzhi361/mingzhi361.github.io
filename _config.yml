@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: False
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: False
     permalink: /:collection/:path/
 
 
@@ -215,7 +215,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: False
       share: true
       comments: true
   # _publications
@@ -233,7 +233,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: False
       share: true
       comment: true
   # _talks
@@ -242,7 +242,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: False
       share: true
 
 # Sass/SCSS
