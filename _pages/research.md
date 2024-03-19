@@ -37,7 +37,7 @@ quality industrial development, but also offers valuable evidence for global com
 ** Can Carbon Risk Be Contagious? Evidence from China. ** (with Xuan Zou)
 
 
-## Projects Participated in
+## Projects Participated
 ---
 
 
