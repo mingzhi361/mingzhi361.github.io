@@ -8,8 +8,8 @@ author_profile: true
 ## Working papers
 ---
 
-**Smarter Makes Greener? The Carbon Reduction Effect of Smart Manufacturing in Chinese Listed Firms.**  
-[<a href="#/" onclick="visib('RevPref')">click for abstract</a>]
+**Smarter Makes Greener? The Carbon Reduction Effect of Smart Manufacturing in Chinese Listed Firms.** (with Xuan Zou)
+[<a href="#/" onclick="visib('RevPref')">click for abstract</a>] 
 
 <div id="RevPref" style="display: none; text-align: justify; line-height: 1.2">
 	With the increasing severity of climate impact and industrial carbon regulation,
@@ -34,13 +34,13 @@ quality industrial development, but also offers valuable evidence for global com
 ## Work in progress
 ---
 
-**Can Carbon Risk Be Contagious? Evidence from China. **
-
-
+**Can Carbon Risk Be Contagious? Evidence from China. ** (with Xuan Zou)
 
 
 ## Projects Participated in
 ---
+
+
 
 
 
