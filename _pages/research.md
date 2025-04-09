@@ -8,33 +8,18 @@ author_profile: true
 ## Working papers
 ---
 
-**Smarter Makes Greener? The Carbon Reduction Effect of Smart Manufacturing in Chinese Listed Firms.** (with Xuan Zou)
+**Intelligent Manufacturing Promoting Corporate Carbon Reduction: Internal Mechanisms and Micro Evidence** (forthcoming) (with Xuan Zou) 
 [<a href="#/" onclick="visib('RevPref')">click for abstract</a>] 
 
 <div id="RevPref" style="display: none; text-align: justify; line-height: 1.2">
-	With the increasing severity of climate impact and industrial carbon regulation,
- manufacturing firms face significant challenges in carbon reduction issues. In this
- study, we employ the firm-level data from Chinese listed manufacturing companies
- between 2011 and 2019, methodically examine the impact of smart manufacturing on
- firm's carbon reduction from both theoretical and empirical vantages. The results
- indicate that: (ⅰ) Smart manufacturing has significantly reduced carbon emissions in
- firms, which remain robust even after conducting various technical tests; (ⅱ) Smart
- manufacturing can reduce firm's carbon emissions due to the technological innovation
- effect, control optimization effect, and digital-intelligence synergy effect; (ⅲ) The carbon
- reduction efficacy of smart manufacturing is found to vary, influenced by the
- heterogeneous characteristics of cities, industries, and firm-types. We for the first time
- delineates the influence and distinct transmission mechanisms by which smart
- manufacturing affects carbon reduction at the micro firm-level within the manufacturing
- industries. It not only provides significant policy insights for China's green and high
-quality industrial development, but also offers valuable evidence for global community
- and manufacturing firms grappling with the ecological challenges of carbon emissions. 
+	Under China's ‘dual carbon’ goals, the manufacturing sector faces significant carbon reduction challenges. As an essential driver of new quality productive forces, intelligent manufacturing (IM) presents a potential solution to these challenges. This study incorporated IM and carbon emission factors into a heterogeneous firms model, analyzing the carbon reduction impact of IM on manufacturing firms using merged data from Chinese listed manufacturing companies. Both theoretical and empirical perspectives were employed to examine the effects of IM and their underlying mechanisms. Key findings included: (i) The development of IM significantly reduced firms' carbon emissions. For every 1% increase in IM level, carbon emissions decreased by 0.618%, equivalent to an average reduction of 2 862.395 tons of CO2. (ii) Robustness tests, accounting for carbon intensity, alternative core variables, extended sample years, and the use of intensity DID and system GMM, confirmed the stability of the baseline results. (iii) Mechanism analysis revealed that IM reduced carbon emissions through green innovation effects (GIE), control optimization effects (COE), and digital-intelligence synergy effects (DSE). Specifically, GIE involved enhancing green innovation, advancing energy-saving and emission-reducing technologies, and promoting lifecycle greening; COE included optimizing both supply chain and internal controls; and DSE comprised the synergy of digital-intelligence technologies with digital-intelligence platforms. (iv) Heterogeneity analysis indicated that IM's carbon reduction effects varied across cities, firms, and industries. Consequently, policies should adopt a differentiated approach rather than a ‘one-size-fits-all’ solution. This study is among the first to reveal IM's impact on carbon reduction at the micro level of firms, providing policy insights for promoting green, high-quality development in manufacturing through intelligent technology and contributing to the timely achievement of China's ‘dual carbon’ goals. 
 <br><br/></div>
 
 
 ## Work in progress
 ---
 
-** Can Carbon Risk Be Contagious? Evidence from China. ** (with Xuan Zou)
+** Unified National Market, Institutional Barriers, and Regional Economic Resilience: Evidence from a Dynamic Quantitative Spatial Model ** (with Xuan Zou)
 
 
 ## Projects Participated
